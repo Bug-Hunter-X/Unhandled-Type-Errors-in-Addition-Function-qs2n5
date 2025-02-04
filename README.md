@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug: unhandled type errors in an addition function. The `bug.js` file contains the buggy code, which fails to check for non-numeric input. The `bugSolution.js` file provides a corrected version with type checking and error handling.
